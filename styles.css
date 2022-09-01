@@ -1,0 +1,16 @@
+body {
+    background: black;
+    color: white
+}
+.big_text {
+    font-weight: 900;
+}
+.text_kursivom {
+
+    font-style: oblique;
+}
+.bez_markera {
+    list-style-type: none;
+    background: yellow;
+    color: green; 
+  }

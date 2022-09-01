@@ -4,5 +4,5 @@ number = gets.to_i
 if number.prime? == true
     puts 'простое число'
 else 
-    puts 'состовное число'
+    puts 'состaвное число'
 end
